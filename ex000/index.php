@@ -12,6 +12,6 @@
 
         ?>
     </h1>
-    <p>vamos tentar nos livrar da maldição</p>
+    <p>primeiro comando em php</p>
 </body>
 </html>
