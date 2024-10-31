@@ -11,6 +11,10 @@
         <?php 
             echo "ola, mundo! \u{1F30E}";
 
+            date_default_timezone_set("America/Fortaleza");
+            echo "hoje é dia" . date("d/m/Y");
+            echo "e a hora é " . date("G:i:s T");
+
         ?>
 
     </h1>
