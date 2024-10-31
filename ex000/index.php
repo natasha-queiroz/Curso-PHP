@@ -7,11 +7,15 @@
 </head>
 <body>
     <h1>
+
         <?php 
             echo "ola, mundo! \u{1F30E}";
 
         ?>
+
     </h1>
+
     <p>primeiro comando em php</p>
+    
 </body>
 </html>

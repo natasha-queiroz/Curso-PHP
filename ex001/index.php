@@ -6,9 +6,12 @@
     <title>Dados do Servidor</title>
 </head>
 <body>
+
     <h1>dados do servidor</h1>
+
     <?php 
         phpinfo();
     ?>
+    
 </body>
 </html>
