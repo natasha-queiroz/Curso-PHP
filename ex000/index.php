@@ -6,6 +6,7 @@
     <title>me livrando da maldição</title>
 </head>
 <body>
+
     <h1>
 
         <?php 
