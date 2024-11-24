@@ -6,8 +6,11 @@
     <title>Desafio PHP</title>
 </head>
 <body>
+
     <main>
+
         <h1>Resultado Final</h1>
+
         <p>
             <?php 
                 $n = $_REQUEST["num"] ?? 0;
