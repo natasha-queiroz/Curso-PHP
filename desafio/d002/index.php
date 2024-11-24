@@ -6,8 +6,11 @@
     <title>Desafio PHP</title>
 </head>
 <body>
+
     <main>
+
         <h1>Trabalhando com numeros aleatorios</h1>
+
         <?php 
             $min = 0;
             $max = 100;
