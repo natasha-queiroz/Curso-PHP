@@ -13,6 +13,7 @@
 
 </header>
     <main>
+
         <?php
         $n = $_GET["nome"] ?? "sem nome";
         $s = $_GET["sobrenome"] ?? "desconhecido";
