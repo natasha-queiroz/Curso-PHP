@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Desafio PHP</title>
     <style>
+        
         main {
             background-color: turquoise;
             height: 500px;
