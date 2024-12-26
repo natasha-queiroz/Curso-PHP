@@ -17,6 +17,7 @@
 
             echo "<p>Gerando um numero aleatorio entre $min e $max... <br>O valor gerado foi $num </p>"
         ?>
+        
         <button onclick="javascript:document.location.reload()">&#xF504; Gerar outro</button>
     </main>
 </body>
