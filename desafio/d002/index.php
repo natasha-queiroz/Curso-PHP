@@ -19,6 +19,7 @@
         ?>
         
         <button onclick="javascript:document.location.reload()">&#xF504; Gerar outro</button>
+
     </main>
 </body>
 </html>
