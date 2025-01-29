@@ -7,7 +7,9 @@
 </head>
 <body>
     <main>
+
         <?php 
+
             //cotação do Google
             $cotação = 5.90;
 
@@ -24,6 +26,7 @@
             echo "Seus " . numfmt_format_currency($padrão, $real, "BRL") . "equivale a " . numfmt_format_currency($padrão, $dólar, "USD");
 
         ?>
+        
     </main>
 </body>
 </html>
