@@ -6,9 +6,11 @@
     <title>Exercicio php</title>
 </head>
 <body>
+
     <main>
         <pre>
             <?php 
+            
                 echo "<h1>Superglobal GET</h1>";
                 var_dump($_GET);
 
@@ -23,5 +25,6 @@
             ?>
         </pre>
     </main>
+
 </body>
 </html>
